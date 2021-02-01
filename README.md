@@ -7,8 +7,6 @@ i love programming, games and serials!
 #### stats
 [![faramozzayw's github stats](https://github-readme-stats.vercel.app/api?username=faramozzayw&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=faramozzayw&show_icons=true&theme=onedark&hide_border=true&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
-
 #### my regular tech stack:
 <p>
   <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
