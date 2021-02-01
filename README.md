@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**faramozzayw/faramozzayw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20 y/o somestack developer <img src="https://api.iconify.design/twemoji:ghost.svg" height="48px" style="color: red;" width="48px" align="center" />
 
-Here are some ideas to get you started:
+i love programming, games and serials!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faramozzayw)](https://github.com/anuraghazra/github-readme-stats)
+
+tech:
+<p>
+  <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:rust.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:apollostack.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:storybook-icon.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:bulma.svg" height="48px" width="48px" align="center" />
+</p>
