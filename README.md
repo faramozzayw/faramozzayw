@@ -18,4 +18,5 @@ i love programming, games and serials!
   <img src="https://api.iconify.design/logos:storybook-icon.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:bulma.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-styled.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-nestjs.svg" height="48px" width="48px" align="center" />
 </p>
