@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-20 y/o somestack developer <img src="https://api.iconify.design/twemoji:ghost.svg" height="48px" style="color: red;" width="48px" align="center" />
+21 y/o somestack developer <img src="https://api.iconify.design/twemoji:ghost.svg" height="48px" style="color: red;" width="48px" align="center" />
 
 i love programming, games and serials!
 
