@@ -10,7 +10,7 @@ i love programming, games and serials!
 #### my regular tech stack:
 <p>
   <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:rust.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:apollostack.svg" height="48px" width="48px" align="center" />
@@ -19,4 +19,12 @@ i love programming, games and serials!
   <img src="https://api.iconify.design/logos:bulma.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-styled.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-nestjs.svg" height="48px" width="48px" align="center" />
+</p>
+
+#### technology that interests me:
+<p>
+  <img src="https://api.iconify.design/vscode-icons:file-type-solidity.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos:ethereum.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/icon-park:blockchain.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/icon-park:bitcoin.svg" height="48px" width="48px" align="center" />
 </p>
