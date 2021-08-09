@@ -28,3 +28,5 @@ i love programming, games and serials!
   <img src="https://api.iconify.design/icon-park:blockchain.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/icon-park:bitcoin.svg" height="48px" width="48px" align="center" />
 </p>
+
+(👍 ͡❛ ͜ʖ ͡❛)👍
