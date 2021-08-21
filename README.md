@@ -29,14 +29,6 @@ i love programming, games and serials!
   <img src="https://api.iconify.design/icon-park:bitcoin.svg" height="48px" width="48px" align="center" />
 </p>
 
-#### contacts
-
-<p>
-  <a href="https://discord.com/users/439442539964137483">
-    <img src="https://i.imgur.com/ZOKp8LH_d.webp?maxwidth=640&shape=thumb&fidelity=medium" height="48px" width="48px" align="center" />
-  </a>
-</p>
-
 #### how do I look while fixing bugs
 
 ![me](https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif)
