@@ -29,4 +29,6 @@ i love programming, games and serials!
   <img src="https://api.iconify.design/icon-park:bitcoin.svg" height="48px" width="48px" align="center" />
 </p>
 
-(👍 ͡❛ ͜ʖ ͡❛)👍
+#### i when i fix bugs
+
+![me](https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif)
