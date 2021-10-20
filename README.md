@@ -21,14 +21,6 @@ i love programming, games and serials!
   <img src="https://api.iconify.design/vscode-icons:file-type-nestjs.svg" height="48px" width="48px" align="center" />
 </p>
 
-#### technology that interests me:
-<p>
-  <img src="https://api.iconify.design/vscode-icons:file-type-solidity.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/logos:ethereum.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/icon-park:blockchain.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/icon-park:bitcoin.svg" height="48px" width="48px" align="center" />
-</p>
-
 #### how do I look while fixing bugs
 
 ![me](https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif)
