@@ -5,6 +5,7 @@
 #### my regular tech stack:
 <p>
   <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/devicon:neovim.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-rust.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-nestjs.svg" height="48px" width="48px" align="center" />
