@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-24 y/o somestack developer <img src="https://api.iconify.design/twemoji:ghost.svg" height="48px" style="color: red;" width="48px" align="center" />
+25 y/o somestack developer <img src="https://api.iconify.design/twemoji:ghost.svg" height="48px" style="color: red;" width="48px" align="center" />
 
 #### my regular tech stack:
 <p>
